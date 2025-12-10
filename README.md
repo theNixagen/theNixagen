@@ -1,27 +1,6 @@
-```go
-package person
+Hello 👋
+My name is João Guilherme dos Santos. I’m a Brazilian full-stack software developer, and my main languages are TypeScript, Go, and Python.
 
-type Person struct {
-	Name         string
-	Age          int
-	Pronouns     []string
-	Education    string
-	CurrentFocus string
-	Curiosities  []string
-	FunFact      string
-}
+Right now, I’m focused on becoming a better developer by learning more about DevOps, cloud, Linux, Docker, and backend development (which is my favorite area). I’m also studying data structures and algorithms, and I want to deepen my knowledge of computer science, low-level programming, networking, and cybersecurity.
 
-func NewPerson() *Person {
-	return &Person{
-		Name:         "João Guilherme dos Santos",
-		Age:          21,
-		Pronouns:     []string{"he", "she", "they"},
-		Education:    "In the 6th semester of software engineering",
-		CurrentFocus: "Learning CS and Golang",
-		Curiosities:  []string{"I'm fascinated by high performance and low latency systems and how they work",
-								"I'm a Linux enthusiast", "I prefer to use TUIs and CLIs instead of GUIs",
-								"I hate writing React for more than 1 hour"},
-		FunFact:      "Cats are my favourite animals",
-	}
-}
-```
+My long-term goal is to become a great software engineer, capable of designing and building robust, high-quality software systems.
