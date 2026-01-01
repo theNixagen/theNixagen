@@ -1,5 +1,5 @@
 Hello 👋
-My name is João Guilherme dos Santos. I’m a Brazilian full-stack software developer, and my main languages are TypeScript, Go, and Python(I also had some experience in other languages like C# and Java).
+My name is João Guilherme dos Santos. I’m a Brazilian full-stack software developer, and my main languages are TypeScript, Go and Python.
 
 Right now, I’m focused on becoming a better developer by learning more about DevOps, cloud, Linux, Docker, and backend development (which is my favorite area). I’m also studying data structures and algorithms, and I want to deepen my knowledge of computer science, low-level programming, networking, and cybersecurity.
 
